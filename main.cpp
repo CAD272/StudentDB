@@ -14,7 +14,7 @@ using namespace std;
 * Developed for: University of Alberta Department of Drama
 *
 * By Tim M. M. Williamson
-* cad491@shaw.ca 780-920-6498
+* tdcw@shaw.ca 
 * Date: November 2019
 * Feature: Student project marks record keeping and reporting
 * Version: 01
