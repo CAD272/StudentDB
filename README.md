@@ -12,3 +12,29 @@ There is also a sample .dat file.
 
 Please feel free to contact me at tdcw@shaw.ca
 
+/*
+* This file is part of {{ StudentDB project }}.
+*
+* Developed for: University of Alberta Department of Drama
+*
+* By Tim M. M. Williamson
+* cad491@shaw.ca 780-920-6498
+* Date: November 2019
+* Feature: Student project marks record keeping and reporting
+* Version: 01
+*
+* Based on C++ software by Sulabh Agrawal of ASN Engineering College
+*
+* <copyright notice>
+* This code is (c)  COPYRIGHT protected 2020 by Tim M. M. Williamson ALL RIGHTS RESERVED
+*
+* This program is free software: you can redistribute it and/or modify
+* it under the terms of the GNU General Public License as published by
+* the Free Software Foundation, either version 3 of the License, or
+* (at your option) any later version.
+*
+* This program is distributed in the hope that it will be useful,
+* but WITHOUT ANY WARRANTY; without even the implied warranty of
+* MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the-----
+* GNU General Public License. See <https://www.gnu.org/licenses/>.
+
