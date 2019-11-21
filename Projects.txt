@@ -1,0 +1,14 @@
+Stock Door,5
+Parallel Riser,5
+ISO Riser,5
+Two Flats,5
+Plinth & Arches,5
+Title Block with Attributes,5
+Lighting Plot,5
+Prop,15
+Sheet Set,5
+Final Box Set,20
+Mid-Term,20
+Polar Quiz,2
+Options Menu,3
+Late & Absent,0
